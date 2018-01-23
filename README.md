@@ -1,0 +1,2 @@
+# mercy-bot
+test
